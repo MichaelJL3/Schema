@@ -48,10 +48,6 @@ need faster operations and want to map the fields manually to getters and setter
 
 ## Benchmarks
 
-| Tables        | Are           | Cool  |     |     |
-| ------------- |:-------------:| -----:|:---:|:---:|
-|               |               |       |     |     |
-
 |Benchmark           |Mode   |Cnt  |Score   |Error     |Units |
 |:------------------ |:-----:|:---:|:------:|:--------:|:----:|
 |AccessorBenchmark.accessorCreationTime |avgt |25 |149910.733 |±9309.084 |ns/op |
